@@ -1,0 +1,17 @@
+{
+  "name": "opencode-opensky",
+  "version": "0.9.0",
+  "description": "OpenSky computer-use tools for OpenCode: give the agent hands on macOS (see, click, type, drag, scroll, paste — 1:1 with ChatGPT/Codex Computer Use)",
+  "type": "module",
+  "main": "index.ts",
+  "license": "MIT",
+  "keywords": ["opencode", "plugin", "computer-use", "opensky", "automation"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkyanam/opencode-opensky.git"
+  },
+  "devDependencies": {
+    "@opencode-ai/plugin": "^1.18.32",
+    "@types/node": "^26.6.3"
+  }
+}
